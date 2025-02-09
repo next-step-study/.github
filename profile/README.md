@@ -21,9 +21,9 @@
 
 ## 👨🏻‍💻👩🏻‍💻 멤버 소개
 
-|[![](https://github.com/ARProxy.png?width=200px)](https://github.com/ARProxy)|[![](https://github.com/02ggang9.png?width=200px)](https://github.com/02ggang9) |[![](https://github.com/hyunn522.png?width=200px)](https://github.com/hyunn522) |
-|:---:|:---:|:---:|
-| 동휘 | 수빈 | 서현 |
+|[![](https://github.com/ARProxy.png?width=200px)](https://github.com/ARProxy)|[![](https://github.com/02ggang9.png?width=200px)](https://github.com/02ggang9) |[![](https://github.com/hyunn522.png?width=200px)](https://github.com/hyunn522) |[![](https://avatars.githubusercontent.com/u/86754153?v=4)](https://github.com/5nam)|
+|:---:|:---:|:---:|:---:|
+| 동휘 | 수빈 | 서현 | 남의 |
 
 ## 🗓 진행 방식
  * 주 1~2회 오프라인 미팅: 각자 학습한 내용을 공유(토론)하고 주요 실습 과제를 리뷰.
