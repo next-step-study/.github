@@ -1,4 +1,4 @@
-# Java Nest-Step 스터디 👨🏻‍💻👩🏻‍💻 🔥
+# Java Next-Step 스터디 👨🏻‍💻👩🏻‍💻 🔥
 
 <img width="350" height="450" alt="Image" src="https://github.com/user-attachments/assets/95584197-33c2-446c-908e-cfaecb7bc204" />
 
@@ -31,4 +31,8 @@
  * 위치 : 사당
  
  * 주차별 학습 내용:
-- 1주차: OT , 서블릿 기본 구현 및 HTTP 이해.
+[2025.02.08]
+- 1주차: OT
+
+[2025.02.16]
+- 2주차: 3장 , 서블릿 기본 구현 및 HTTP 이해.
